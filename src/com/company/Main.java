@@ -41,7 +41,7 @@ public class Main {
     public static String Run(BufferedReader br){
         System.out.print("Enter dtb for Decimal to binary \n");
         System.out.print("Enter btd for Binary to Decimal\n");
-        System.out.print("Enter function:");
+        System.out.print("Enter function: ");
         String type=null;
         try {
             type = br.readLine();
